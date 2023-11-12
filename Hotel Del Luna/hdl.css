@@ -1,0 +1,157 @@
+.one {
+  max-width: 320px;
+  float: left;
+  border: 3px solid white;
+  border-radius: 50%;
+  margin-right: 20px;
+  position: relative;
+  top: -40px; 
+  max-width: 200px; 
+  max-height: 130px; 
+}
+
+body {
+  display: block;
+  min-height: 100vh;
+  background:#DFB4FF;
+  margin: 0%;
+  padding: 0%;
+}
+
+.wrapper {
+  margin: 60px;
+  width: 70%;
+
+}
+
+.text-box {
+  color:#c299d0;
+  margin-left: 40px;
+}
+
+.text-box p {
+  font-size: 35px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #5e057e;
+  height: 175px;
+  width: 100%; 
+  border-bottom: 3px solid white;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  margin-bottom: -200px;
+}
+.two {
+  border-radius: 50%;
+  border: 3px solid white;
+  margin-top: 250px;
+  width: 300px; 
+  height: 240px;
+  float: left;
+  margin-left: 15px;
+}
+
+.ldm {
+  margin-left: 30px;
+  color:white;
+  font-size: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin-top: 250px;
+}
+
+
+.twice {
+  background-color: #5e057e;
+  color: white;
+  position: absolute;
+  top: 50px;
+  right: 800px; 
+  width: 100px;
+  height: 70px;
+  font-size: 25px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  cursor:context-menu;
+  border: none;
+  opacity: 0.6;
+}
+
+.nove-nove {
+  background-color: #5e057e;
+  color: white;
+  position: absolute;
+  font-size: 25px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  cursor:context-menu;
+  border: none;
+  opacity: 0.6;
+  top: 50px;
+  right: 620px;
+  height: 70px;
+}
+
+.Ariana {
+  background-color: #5e057e;
+  color: white;
+  position: absolute;
+  font-size: 25px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  cursor:context-menu;
+  border: none;
+  opacity: 0.6;
+  top: 50px;
+  right: 480px;
+  height: 70px;
+}
+
+.miss {
+  background-color: #5e057e;
+  color: white;
+  position: absolute;
+  font-size: 25px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  cursor:context-menu;
+  border: none;
+  opacity: 0.6;
+  top: 50px;
+  right: 290px;
+  height: 70px;
+}
+
+.hylt {
+  background-color: #5e057e;
+  color: white;
+  position: absolute;
+  font-size: 25px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  cursor:context-menu;
+  border: none;
+  opacity: 0.6;
+  top: 50px;
+  right: 150px;
+  height: 70px;
+}
